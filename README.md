@@ -25,10 +25,10 @@ Para executar os testes de exemplo basta o comando abaixo:
 
 ## Requisitos Não Funcionais
 
-- Deverá ser documentado no [README.md](.) como executar/compilar/empacotar o projeto e quais os endpoints solicitados nos requisitos acima. Para esse fim podem ser utilizadas ferramentas de containerização e automatização de builds.
+- Deverá ser documentado no [README.md](./README.md) como executar/compilar/empacotar o projeto e quais os endpoints solicitados nos requisitos acima. Para esse fim podem ser utilizadas ferramentas de containerização e automatização de builds.
 - A API deverá ser HTTP e pode ser REST ou GraphQL.
 - A versão do Java deve ser 11 ou superior.
-- Não existe restrição de framework Java (e.g. Spring, Quarkus) mas será melhor avaliado se justificado no [README.md](.) os motivos da decisão.
+- Não existe restrição de framework Java (e.g. Spring, Quarkus) mas será melhor avaliado se justificado no [README.md](./README.md) os motivos da decisão.
 
 ## O que iremos avaliar
 
